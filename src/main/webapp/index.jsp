@@ -31,16 +31,18 @@
 
 
       <!-- You only need to change these information, starts here! -->
-      <p>Here is the information you need to change:</p>
-      <span class="badge badge-primary">Your name</span>
-      <br>
-      <span class="badge badge-secondary">Your student ID (sID)</span>
-      <br>
-      <span class="badge badge-success">Your Major (and Minor if possible)</span>
-      <br>
-      <span class="badge badge-danger">Your Hobby</span>
-      <br>
-      <span class="badge badge-warning">Your Favouritate Programming Language</span>
+	
+<h1 class="display-4">RMIT University Vietnam</h1>
+      <p class="lead">Course: COSC2767 Systems Deployment and Operations</p>
+      <p class="lead">Semester: 2022B</p>
+	<p class="lead">Assessment: Assignment  2</p>
+      <hr class="my-4">
+	<p>Author: Do Vu Thanh Vinh</p>
+	<p>ID: 3818471 </p>
+	<p>Created date: 27/08/2022 </p>
+	<p>Last modified: 29/08/2022</p>
+	<p>Acknowledgement: Course Documentation: Lecture 3,4 and 5 </p>
+      
       <!-- You only need to change these information, ends here! -->
       
 
