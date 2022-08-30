@@ -42,7 +42,8 @@
 	<p>Created date: 27/08/2022 </p>
 	<p>Last modified: 29/08/2022</p>
 	<p>Acknowledgement: Course Documentation: Lecture 3,4 and 5 </p>
-      
+	<p>My Major is IT and I like React, TypeScript and languages related to web programming </p>
+	<p>I like to code, make websites and play games/football. </p>      
       <!-- You only need to change these information, ends here! -->
       
 
